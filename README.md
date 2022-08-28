@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexkane100
+- 👀 I’m interested in python, mathematics, C++, rust, golang
+- 🌱 I’m currently learning Tech leadership, rust, golang, cyber security
